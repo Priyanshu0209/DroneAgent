@@ -1,0 +1,8 @@
+# Drone 2 Specific Configuration
+
+drone_id: 2
+vehicle:
+  name: "Drone2"
+
+# Neighbor list for initial discovery
+neighbor_list: [1, 3]

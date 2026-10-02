@@ -1,0 +1,42 @@
+2026-07-01 16:06:31,648 - Drone2 - INFO - Logger initialized for drone 2
+2026-07-01 16:06:31,649 - Drone2 - INFO - BackendFactory: Creating SimulationBackend
+2026-07-01 16:06:31,649 - Drone2.Communication - INFO - Communication initialized on 0.0.0.0:14560
+2026-07-01 16:06:31,649 - Drone2.StateMachine - INFO - StateMachine initialized
+2026-07-01 16:06:31,649 - Drone2 - INFO - DroneAgent initialized
+2026-07-01 16:06:31,649 - Drone2 - INFO - Starting DroneAgent...
+2026-07-01 16:06:31,649 - Drone2.SimulationBackend - INFO - Starting SimulationBackend...
+2026-07-01 16:06:31,650 - Drone2.SimulationBackend - INFO - Connecting to SITL simulation via udpin://0.0.0.0:14540
+2026-07-01 16:06:36,464 - Drone2 - INFO - Received signal 15, initiating shutdown...
+2026-07-01 16:06:36,464 - Drone2 - INFO - Shutting down DroneAgent...
+2026-07-01 16:06:36,465 - Drone2.Heartbeat - INFO - Heartbeat stopped
+2026-07-01 16:06:36,465 - Drone2.MovementController - INFO - Movement controller stopped
+2026-07-01 16:06:36,465 - Drone2.Decision - INFO - Decision engine stopped
+2026-07-01 16:06:36,465 - Drone2.Telemetry - INFO - Telemetry stopped
+2026-07-01 16:06:36,465 - Drone2.Communication - INFO - Communication stopped
+2026-07-01 16:06:36,465 - Drone2.SimulationBackend - INFO - Stopping SimulationBackend...
+2026-07-01 16:06:41,466 - Drone2 - INFO - DroneAgent shutdown complete
+2026-07-01 16:08:12,091 - Drone2 - INFO - Logger initialized for drone 2
+2026-07-01 16:08:12,091 - Drone2 - INFO - BackendFactory: Creating SimulationBackend
+2026-07-01 16:08:12,091 - Drone2.Communication - INFO - Communication initialized on 0.0.0.0:14560
+2026-07-01 16:08:12,091 - Drone2.StateMachine - INFO - StateMachine initialized
+2026-07-01 16:08:12,091 - Drone2 - INFO - DroneAgent initialized
+2026-07-01 16:08:12,091 - Drone2 - INFO - Starting DroneAgent...
+2026-07-01 16:08:12,091 - Drone2.SimulationBackend - INFO - Starting SimulationBackend...
+2026-07-01 16:08:12,092 - Drone2.SimulationBackend - INFO - Connecting to SITL simulation via udpin://0.0.0.0:14540
+2026-07-01 16:08:14,889 - Drone2 - INFO - Received signal 15, initiating shutdown...
+2026-07-01 16:08:14,890 - Drone2 - INFO - Shutting down DroneAgent...
+2026-07-01 16:08:14,890 - Drone2.Heartbeat - INFO - Heartbeat stopped
+2026-07-01 16:08:14,890 - Drone2.MovementController - INFO - Movement controller stopped
+2026-07-01 16:08:14,890 - Drone2.Decision - INFO - Decision engine stopped
+2026-07-01 16:08:14,890 - Drone2.Telemetry - INFO - Telemetry stopped
+2026-07-01 16:08:14,890 - Drone2.Communication - INFO - Communication stopped
+2026-07-01 16:08:14,890 - Drone2.SimulationBackend - INFO - Stopping SimulationBackend...
+2026-07-01 16:08:19,891 - Drone2 - INFO - DroneAgent shutdown complete
+2026-07-01 16:11:06,102 - Drone2 - INFO - Logger initialized for drone 2
+2026-07-01 16:11:06,102 - Drone2 - INFO - BackendFactory: Creating SimulationBackend
+2026-07-01 16:11:06,103 - Drone2.Communication - INFO - Communication initialized on 0.0.0.0:14560
+2026-07-01 16:11:06,103 - Drone2.StateMachine - INFO - StateMachine initialized
+2026-07-01 16:11:06,103 - Drone2 - INFO - DroneAgent initialized
+2026-07-01 16:11:06,103 - Drone2 - INFO - Starting DroneAgent...
+2026-07-01 16:11:06,103 - Drone2.SimulationBackend - INFO - Starting SimulationBackend...
+2026-07-01 16:11:06,104 - Drone2.SimulationBackend - INFO - Connecting to SITL simulation via udpin://0.0.0.0:14540

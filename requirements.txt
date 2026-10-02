@@ -1,0 +1,32 @@
+# DroneAgent Requirements
+# Core dependencies for MAVSDK and networking
+mavsdk>=2.8.0
+pymavlink
+PyYAML>=6.0.1
+importlib-metadata==7.1.0; python_version < "3.10"
+zipp==3.18.2; python_version < "3.10"
+urllib3==2.2.1
+
+# For Web GUI Backend
+fastapi>=0.100.0
+uvicorn>=0.23.0
+websockets>=11.0
+
+# For typing (if using Python <3.8, but we assume 3.12)
+# For logging (standard library)
+# For math and time (standard library)
+# For threading (standard library)
+# For socket (standard library)
+# For struct (standard library)
+# For json (standard library)
+# For time (standard library)
+# For queue (standard library)
+# For threading (standard library)
+# For time (standard library)
+# For math (standard library)
+# For random (standard library)
+# For socket (standard library)
+# For select (standard library)
+# For errno (standard library)
+# For socket (standard library modules are not listed in requirements.txt
+PySide6

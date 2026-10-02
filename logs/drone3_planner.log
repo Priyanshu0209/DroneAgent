@@ -1,0 +1,42 @@
+2026-07-01 16:06:43,352 - Drone3 - INFO - Logger initialized for drone 3
+2026-07-01 16:06:43,352 - Drone3 - INFO - BackendFactory: Creating RealDroneBackend
+2026-07-01 16:06:43,352 - Drone3.Communication - INFO - Communication initialized on 0.0.0.0:14560
+2026-07-01 16:06:43,352 - Drone3.StateMachine - INFO - StateMachine initialized
+2026-07-01 16:06:43,353 - Drone3 - INFO - DroneAgent initialized
+2026-07-01 16:06:43,353 - Drone3 - INFO - Starting DroneAgent...
+2026-07-01 16:06:43,353 - Drone3.RealDroneBackend - INFO - Starting RealDroneBackend...
+2026-07-01 16:06:43,354 - Drone3.RealDroneBackend - INFO - Connecting to Real Hardware via serial:///dev/ttyAMA0:921600
+2026-07-01 16:06:48,182 - Drone3 - INFO - Received signal 15, initiating shutdown...
+2026-07-01 16:06:48,187 - Drone3 - INFO - Shutting down DroneAgent...
+2026-07-01 16:06:48,187 - Drone3.Heartbeat - INFO - Heartbeat stopped
+2026-07-01 16:06:48,187 - Drone3.MovementController - INFO - Movement controller stopped
+2026-07-01 16:06:48,187 - Drone3.Decision - INFO - Decision engine stopped
+2026-07-01 16:06:48,188 - Drone3.Telemetry - INFO - Telemetry stopped
+2026-07-01 16:06:48,188 - Drone3.Communication - INFO - Communication stopped
+2026-07-01 16:06:48,188 - Drone3.RealDroneBackend - INFO - Stopping RealDroneBackend...
+2026-07-01 16:06:53,188 - Drone3 - INFO - DroneAgent shutdown complete
+2026-07-01 16:08:17,098 - Drone3 - INFO - Logger initialized for drone 3
+2026-07-01 16:08:17,098 - Drone3 - INFO - BackendFactory: Creating SimulationBackend
+2026-07-01 16:08:17,099 - Drone3.Communication - INFO - Communication initialized on 0.0.0.0:14560
+2026-07-01 16:08:17,099 - Drone3.StateMachine - INFO - StateMachine initialized
+2026-07-01 16:08:17,099 - Drone3 - INFO - DroneAgent initialized
+2026-07-01 16:08:17,099 - Drone3 - INFO - Starting DroneAgent...
+2026-07-01 16:08:17,099 - Drone3.SimulationBackend - INFO - Starting SimulationBackend...
+2026-07-01 16:08:17,100 - Drone3.SimulationBackend - INFO - Connecting to SITL simulation via udpin://0.0.0.0:14540
+2026-07-01 16:08:19,898 - Drone3 - INFO - Received signal 15, initiating shutdown...
+2026-07-01 16:08:19,898 - Drone3 - INFO - Shutting down DroneAgent...
+2026-07-01 16:08:19,898 - Drone3.Heartbeat - INFO - Heartbeat stopped
+2026-07-01 16:08:19,898 - Drone3.MovementController - INFO - Movement controller stopped
+2026-07-01 16:08:19,899 - Drone3.Decision - INFO - Decision engine stopped
+2026-07-01 16:08:19,899 - Drone3.Telemetry - INFO - Telemetry stopped
+2026-07-01 16:08:19,899 - Drone3.Communication - INFO - Communication stopped
+2026-07-01 16:08:19,899 - Drone3.SimulationBackend - INFO - Stopping SimulationBackend...
+2026-07-01 16:08:24,900 - Drone3 - INFO - DroneAgent shutdown complete
+2026-07-01 16:11:06,435 - Drone3 - INFO - Logger initialized for drone 3
+2026-07-01 16:11:06,435 - Drone3 - INFO - BackendFactory: Creating SimulationBackend
+2026-07-01 16:11:06,436 - Drone3.Communication - INFO - Communication initialized on 0.0.0.0:14560
+2026-07-01 16:11:06,436 - Drone3.StateMachine - INFO - StateMachine initialized
+2026-07-01 16:11:06,436 - Drone3 - INFO - DroneAgent initialized
+2026-07-01 16:11:06,436 - Drone3 - INFO - Starting DroneAgent...
+2026-07-01 16:11:06,436 - Drone3.SimulationBackend - INFO - Starting SimulationBackend...
+2026-07-01 16:11:06,437 - Drone3.SimulationBackend - INFO - Connecting to SITL simulation via udpin://0.0.0.0:14540

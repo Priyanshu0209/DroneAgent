@@ -1,0 +1,20 @@
+[Unit]
+Description=DroneAgent Service
+After=network.target
+
+[Service]
+Type=simple
+User=pi
+# Fallback if running as a different user, modify as needed
+# User=ubuntu
+
+WorkingDirectory=/home/pi/DroneAgent
+ExecStart=/bin/bash /home/pi/DroneAgent/start_drone.sh -c config/base.yaml config/network_config.yaml config/real.yaml config/drone1.yaml
+Restart=on-failure
+RestartSec=5
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=droneagent
+
+[Install]
+WantedBy=multi-user.target
